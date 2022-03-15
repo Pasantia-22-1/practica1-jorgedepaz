@@ -1,10 +1,20 @@
 @import url(http://fonts.googleapis.com/css?family=Exo+2:400,200,600,800);
 .nav{
-    
     background-color:  #164e52;
 }
+
+.nav__container{
+    color:  white;
+}
+
 .menu__item{
     display: inline-block;
-    color:  white;
+    border: 1px solid black;
     padding: 3%;
+}
+
+.galeria__item{
+    display: inline-block;
+
+    padding: 4%;
 }
